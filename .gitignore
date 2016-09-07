@@ -2,3 +2,5 @@
 
 .idea/
 samples-webpack.iml
+
+samples/optimization/bundle.js
