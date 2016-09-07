@@ -3,4 +3,5 @@
 .idea/
 samples-webpack.iml
 
+samples/optimization/node_modules/
 samples/optimization/bundle.js
